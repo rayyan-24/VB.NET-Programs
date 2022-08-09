@@ -1,0 +1,6 @@
+*.exe
+.vs/
+.vscode/
+Exe/
+External Practical/
+Practical Test/
